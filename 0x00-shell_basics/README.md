@@ -1,1 +1,1 @@
-Print absolute path
+Print absolute path of the current directory
