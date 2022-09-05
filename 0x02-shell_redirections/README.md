@@ -6,3 +6,4 @@ Project 0x02, Shell, I/O Redirections and Filters
 5. 4-lastlines - Display the last 10 lines of /etc/passwd.
 6. 5-firstlines - Display the first 10 lines of /etc/passwd.
 7. 6-third_line - Display the third line of the file iacta.
+8. 7-file - A script to create  a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School.
