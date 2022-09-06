@@ -7,3 +7,4 @@ Project 0x02, Shell, I/O Redirections and Filters
 6. 5-firstlines - Display the first 10 lines of /etc/passwd.
 7. 6-third_line - Display the third line of the file iacta.
 8. 7-file - A script to create  a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School.
+9. 8-cwd_state - A script that writes the result of the command ls -la into the file ls_cwd_content.
