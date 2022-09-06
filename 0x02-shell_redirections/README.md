@@ -17,5 +17,6 @@ Project 0x02, Shell, I/O Redirections and Filters
 16. 15-countthatword - Displays the number of lines that contain the pattern "bin" in the /etc/passwd.
 17. 16-whatsnext - Display lines containing the pattern "root" and three lines after them.
 18. 19-AZ - Replace all characters A and c from input to Z and e respectively.
-19. 20-hiago - Create a script that removes all letters c and C from input.
-20. 21-reverse - Write a script that reverse its input.
+19. 20-hiago - A script that removes all letters c and C from input.
+20. 21-reverse - A script that reverse its input.
+21. 22-users_and_homes - A script that displays all users and their home directories, sorted by users.
