@@ -9,3 +9,4 @@ Project 0x02, Shell, I/O Redirections and Filters
 8. 7-file - A script to create  a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School.
 9. 8-cwd_state - A script that writes the result of the command ls -la into the file ls_cwd_content.
 10. 9-duplicate_last_line - A script to duplicate the last line of the file iacta
+11. 10-no_more_js - A script that deletes all the regular files (no the directories) with a .js extension that are present in the current directory and all its subfolders.
