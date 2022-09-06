@@ -18,4 +18,4 @@ Project 0x02, Shell, I/O Redirections and Filters
 17. 16-whatsnext - Display lines containing the pattern "root" and three lines after them.
 18. 19-AZ - Replace all characters A and c from input to Z and e respectively.
 19. 20-hiago - Create a script that removes all letters c and C from input.
-20.
+20. 21-reverse - Write a script that reverse its input.
