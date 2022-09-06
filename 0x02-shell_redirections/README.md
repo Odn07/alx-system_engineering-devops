@@ -16,3 +16,4 @@ Project 0x02, Shell, I/O Redirections and Filters
 15. 14-findthatword - Displays lines containing the pattern "root" from the file /etc/passwd.
 16. 15-countthatword - Displays the number of lines that contain the pattern "bin" in the /etc/passwd.
 17. 16-whatsnext - Display lines containing the pattern "root" and three lines after them.
+18. 19-AZ - Replace all characters A and c from input to Z and e respectively.
