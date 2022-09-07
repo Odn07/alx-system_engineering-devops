@@ -1,0 +1,2 @@
+#!/bin/bash
+cat -n |grep [13579][[:sapce:]] |tr -s  |cut -f2 a script that prints every other line from the input102-odd
