@@ -1,2 +1,2 @@
-#!/bin/bash
-cat -n |grep [13579][[:space:]] |tr -s  |cut -f2
+[master 646e4b4] Print every other line from input
+ 1 file changed, 1 insertion(+), 1 deletion(-)
